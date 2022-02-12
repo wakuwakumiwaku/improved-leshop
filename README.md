@@ -1,5 +1,5 @@
 # improved-leshop
-a script that automatically scrapes all invoices from Leshop.ch
+scrape all invoices from Leshop.ch
 requires Python 3.9.0, and the following libraries: 
 ```
 import time
